@@ -1,0 +1,67 @@
+Scanner On.
+Device Scanned.
+[Callback] centralManager(central, didDiscover: peripheral, advertisementData: ["kCBAdvDataLocalName": NNYHS, "kCBAdvDataRxSecondaryPHY": 0, "kCBAdvDataIsConnectable": 1, "kCBAdvDataServiceUUIDs": <__NSArrayM 0x280eaf8d0>(
+FEAF
+)
+, "kCBAdvDataTimestamp": 677590031.758255, "kCBAdvDataRxPrimaryPHY": 1, "kCBAdvDataServiceData": {
+    FEAF = {length = 17, bytes = 0x1001000200e1080060761b640066166402};
+}], rssi: -100)
+Turning Off Scanner...
+Scanner Off.
+Turning On Scanner...
+Scanner On.
+Turning Off Scanner...
+Scanner Off.
+Turning On Scanner...
+Scanner On.
+-97 dBm
+2744819.18 ms
+-97 dBm
+Turning Off Scanner...
+Scanner Off.
+Turning On Scanner...
+Scanner On.
+-95 dBm
+25673.69 ms
+-94 dBm
+-96 dBm
+2564.32 ms
+-95 dBm
+-95 dBm
+2567.97 ms
+-96 dBm
+1278.36 ms
+-95 dBm
+-95 dBm
+7708.69 ms
+-99 dBm
+11551.94 ms
+-97 dBm
+8992.37 ms
+-95 dBm
+3852.81 ms
+-97 dBm
+-96 dBm
+3841.80 ms
+-96 dBm
+12828.57 ms
+-100 dBm
+3849.51 ms
+-96 dBm
+1287.91 ms
+-101 dBm
+10288.03 ms
+-97 dBm
+7704.37 ms
+-97 dBm
+11558.34 ms
+Turning Off Scanner...
+Scanner Off.
+Turning On Scanner...
+Scanner On.
+Turning Off Scanner...
+Scanner Off.
+Attempting to connect...
+cbCentralManager.connect()
+Attempting to connect...
+cbCentralManager.connect()
